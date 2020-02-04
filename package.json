@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JShields30/BurgerLogger.git"
+    "url": "git+https://github.com/JShields30/BURGERLOGGER2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JShields30/BurgerLogger/issues"
+    "url": "https://github.com/JShields30/BURGERLOGGER2/issues"
   },
   "homepage": "https://github.com/JShields30/BurgerLogger#readme",
   "dependencies": {
